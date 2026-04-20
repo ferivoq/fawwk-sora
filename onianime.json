@@ -7,7 +7,7 @@
   },
   "version": "1.0.0",
   "language": "Hungarian (SUB)",
-  "streamType": "MP4",
+  "streamType": "HLS",
   "quality": "720p",
   "baseUrl": "https://onianime.hu",
   "searchBaseUrl": "https://onianime.hu/api/animes/search?search=%s",
