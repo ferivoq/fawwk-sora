@@ -1,0 +1,26 @@
+{
+  "sourceName": "OniAnime",
+  "iconUrl": "https://raw.githubusercontent.com/ferivoq/fawwk-repo/refs/heads/main/icon/eu.kanade.tachiyomi.animeextension.hu.onianime.png",
+  "author": {
+    "name": "ferivoq",
+    "icon": "https://raw.githubusercontent.com/ferivoq/fawwk-repo/refs/heads/main/icon/eu.kanade.tachiyomi.animeextension.hu.onianime.png"
+  },
+  "version": "1.0.0",
+  "language": "Hungarian (SUB)",
+  "streamType": "MP4",
+  "quality": "720p",
+  "baseUrl": "https://onianime.hu",
+  "searchBaseUrl": "https://onianime.hu/api/animes/search?search=%s",
+  "scriptUrl": "REPLACE_WITH_RAW_JS_URL",
+  "type": "anime",
+  "asyncJS": true,
+  "softsub": false,
+  "downloadSupport": true,
+  "supportsMojuru": true,
+  "supportsDartotsu": true,
+  "supportsSora": true,
+  "supportsLuna": true,
+  "supportsAnymex": true,
+  "supportsTsumi": true,
+  "supportsHiyoku": true
+}
